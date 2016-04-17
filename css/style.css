@@ -2,8 +2,16 @@ div.design-tool {
   position: absolute !important;
   top: 0;
   left: 0;
+  width: 100%;
   z-index: 999;
+  background: #E0E0E0;
+  opacity: 0.9;
 }
 div.design-tool input {
   display: block;
+  width: 100%;
+  margin-top: 30px;
+}
+div.design-tool input:last-child {
+  margin-bottom: 30px
 }
