@@ -1,0 +1,9 @@
+div.design-tool {
+  position: absolute !important;
+  top: 0;
+  left: 0;
+  z-index: 999;
+}
+div.design-tool input {
+  display: block;
+}
